@@ -39,8 +39,7 @@ _(You can add a screenshot here later)_
 ```
 tindog-bootstrap-website/
 ├── index.html
-├── css/
-│ └── style.css
+├── style.css
 ├── images/
 ├── README.md
 ```
